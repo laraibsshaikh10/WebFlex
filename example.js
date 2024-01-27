@@ -6,6 +6,7 @@
 //node example.js 1 hello 2 -3 3 -> 6
 
 
+
 // console.log(process.argv);
 
 const commandLineArguments = process.argv;
