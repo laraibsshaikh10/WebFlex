@@ -23,6 +23,7 @@ for (const arg of input){
     sum += converted;
   }
 }
+
 return sum;
 }
 
